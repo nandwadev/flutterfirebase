@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815638803631",
+    "project_id": "fir-sample-872f6",
+    "storage_bucket": "fir-sample-872f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815638803631:android:659cbea045c2da3f65d05a",
+        "android_client_info": {
+          "package_name": "nandwa.dev.firebasesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815638803631-rfif9taq6p27vong6phstq3gummf4oil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoY_oihDoDtVpBinI7cUFcJKNie22kvyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815638803631-rfif9taq6p27vong6phstq3gummf4oil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
